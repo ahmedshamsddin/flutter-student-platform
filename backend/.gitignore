@@ -1,0 +1,5 @@
+.env
+export.sql
+node_modules
+package-lock.json
+hash.js
